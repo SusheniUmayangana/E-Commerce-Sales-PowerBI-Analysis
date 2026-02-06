@@ -4,7 +4,7 @@
 This project is an end-to-end Data Analysis project focused on an e-commerce dataset for **E-Com Express**. The dashboard provides actionable insights into sales trends, product performance, and delivery efficiency to help stakeholders make data-driven decisions.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](Screenshot/Screenshot1.png)
+![Dashboard Preview](Screenshots/Screenshot1.png)
 *Note: This project is currently in active development. Phase 1 (Core Metrics) is complete.*
 
 ---
